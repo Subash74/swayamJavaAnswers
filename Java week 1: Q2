@@ -1,0 +1,10 @@
+        if(x>y && x>z)
+        	result=x;
+        
+		else if(y>x && y>z)
+        	result=y;
+          
+        else
+        	result=z;
+        
+        System.out.print(result);

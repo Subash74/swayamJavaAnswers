@@ -1,0 +1,8 @@
+int i=0,j=0;
+		while(i<n){
+          if(j%3==0)
+            sum+=j;
+          j+=2;
+          i++;
+        }
+		System.out.print(sum);
