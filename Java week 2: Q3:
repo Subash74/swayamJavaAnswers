@@ -1,0 +1,4 @@
+	public void studentMethod(){
+	  Question23 obj= new Question23();	
+      print(obj);
+    }

@@ -1,0 +1,3 @@
+	Printer printer = new Printer();
+	printer.print("Hi! I am class STUDENT");
+	printer.print();

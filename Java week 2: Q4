@@ -1,0 +1,9 @@
+class Answer{
+	Answer(){
+		System.out.println("You got nothing.");
+	}
+	Answer(int marks, String type){		
+	  this();	
+      System.out.println("You got "+marks+" for an "+ type);
+	}
+}

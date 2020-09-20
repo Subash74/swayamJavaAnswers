@@ -1,0 +1,5 @@
+	Student student = new Student();
+	student.print();
+	
+	School school = new School();
+	school.print();
